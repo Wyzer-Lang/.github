@@ -1,4 +1,4 @@
-## Hi there 👋
+![WYZERLANG](https://github.com/Wyzer-Lang/.github/blob/main/Group%20187.svg)
 
 <!--
 
